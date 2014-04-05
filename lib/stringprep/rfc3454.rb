@@ -18,8 +18,8 @@ module Stringprep
 
   private
 
-    TABLES_DATA_DIR = 'data'
-            RFC_DIR = 'data'
+    TABLES_DATA_DIR = File.expand_path('../../../data', __FILE__)
+            RFC_DIR = TABLES_DATA_DIR
     TABLES_FILE = File.join(TABLES_DATA_DIR, 'rfc3454.json')
     RFC_FILE = File.join(TABLES_DATA_DIR, 'rfc3454.txt')
 
