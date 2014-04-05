@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/steakknife/stringprep.svg)](https://travis-ci.org/steakknife/stringprep) [![Coverage Status](https://coveralls.io/repos/steakknife/stringprep/badge.png?branch=master)](https://coveralls.io/r/steakknife/stringprep?branch=master) [![Dependency Status](https://gemnasium.com/steakknife/stringprep.svg)](https://gemnasium.com/steakknife/stringprep)
+[![Build Status](https://travis-ci.org/steakknife/stringprep.svg)](https://travis-ci.org/steakknife/stringprep) [![Coverage Status](https://coveralls.io/repos/steakknife/stringprep/badge.png?branch=master)](https://coveralls.io/r/steakknife/stringprep?branch=master) [![Dependency Status](https://gemnasium.com/steakknife/stringprep.svg)](https://gemnasium.com/steakknife/stringprep) [![Code Climate](https://codeclimate.com/github/steakknife/stringprep.png)](https://codeclimate.com/github/steakknife/stringprep)
 
 # Stringprep
 
