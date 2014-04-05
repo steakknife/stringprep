@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = 'Pure Ruby Stringprep implementation (RFC 3494)'
   s.license     = 'MIT'
 
-  s.files = Dir['{app,config,db,lib}/**/*', 'LICENSE', 'Rakefile', 'README.md']
+  s.files = Dir['{app,data,config,db,lib}/**/*', 'LICENSE', 'Rakefile', 'README.md']
   s.test_files = Dir['spec/**/*', '.rspec']
   s.require_path = 'lib'
 
