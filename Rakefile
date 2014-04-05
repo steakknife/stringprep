@@ -22,4 +22,9 @@ task :spec do
   sh "bundle exec rspec #{ARGV.join ' '}"
 end
 
+desc 'Run coveralls'
+task :coveralls do
+  sh 'bundle exec coveralls push'
+end
+
 task default: :spec
