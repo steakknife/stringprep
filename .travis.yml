@@ -1,5 +1,4 @@
 language: ruby
-env: WEAR_COVERALLS=y
 rvm:
   - 1.9.3
   - 2.0.0
