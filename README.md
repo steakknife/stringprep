@@ -5,7 +5,7 @@
 [![Dependency Status](https://gemnasium.com/steakknife/stringprep.svg)](https://gemnasium.com/steakknife/stringprep)
 [![Code Climate](https://codeclimate.com/github/steakknife/stringprep.png)](https://codeclimate.com/github/steakknife/stringprep)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-[![Gittip](https://img.shields.io/badge/Gittip-$upport-green.svg)](https://www.gittip.com/steakknife/)
+[![Gittip](https://img.shields.io/badge/Gittip-support_future_development-green.svg)](https://www.gittip.com/steakknife/)
 ![Awesome](https://img.shields.io/badge/Awesome-%F0%9F%98%8E-blue.svg)
 
 # Stringprep
