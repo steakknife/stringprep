@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/steakknife/stringprep.svg)](https://travis-ci.org/steakknife/stringprep)
+
 # Stringprep
 
 Pure Ruby implementation
