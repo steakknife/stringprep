@@ -1,4 +1,4 @@
-if File.exist? '.coveralls.yml'
+if File.exist? '.coveralls.yml' || ENV['WEAR_COVERALLS']
   require 'coveralls'
   Coveralls.wear!
   $stderr.puts 'Coveralls are ON'

@@ -5,5 +5,7 @@
 /vendor/bundle
 /vendor/cache
 Gemfile.lock
+/.bundle
 
 .coveralls.yml
+/coverage
