@@ -9,15 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Stringprep::VERSION
   s.authors     = ['Barry Allard']
   s.email       = ['barry.allard@gmail.com']
-  s.homepage    = github_url = 'https://github.com/steakknife/stringprep'
-    s.metadata = {
-    'source_code_uri' => "#{github_url}.git",
-#   'documentation_uri' => "",
-        'project_uri' => github_url,
-    'bug_tracker_uri' => "#{github_url}/issues",
-           'wiki_uri' => "#{github_url}/wiki",
-#    'mailing_list_uri' => "",
-  }
+  s.homepage    = 'https://github.com/steakknife/stringprep'
   s.summary     = 'Stringprep'
   s.description = 'Pure Ruby Stringprep implementation (RFC 3494)'
   s.license     = 'MIT'
