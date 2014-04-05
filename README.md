@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/steakknife/stringprep.svg)](https://travis-ci.org/steakknife/stringprep)
+[![Build Status](https://travis-ci.org/steakknife/stringprep.svg)](https://travis-ci.org/steakknife/stringprep) [![Coverage Status](https://coveralls.io/repos/steakknife/stringprep/badge.png?branch=master)](https://coveralls.io/r/steakknife/stringprep?branch=master)
 
 # Stringprep
 
