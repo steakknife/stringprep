@@ -1,0 +1,7 @@
+.*.swp
+
+*.gem
+
+/vendor/bundle
+/vendor/cache
+Gemfile.lock
