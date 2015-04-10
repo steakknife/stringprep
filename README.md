@@ -61,4 +61,4 @@ MIT
 
 ## References
 
-- Stringprep [rfc3494](http://tools.ietf.org/html/rfc3494)
+- Stringprep [rfc3454](http://tools.ietf.org/html/rfc3454)
